@@ -1,6 +1,6 @@
 #EXTM3U url-tvg= http://www.teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1111.png ,Матч! Футбол 1 
+#EXTINF:0 tvg-logo=https://https://cr1ma.github.io/iptv/mf1.png ,Матч! Футбол 1 
 https://95-213-172-212.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1152.png ,Матч! Футбол 2
