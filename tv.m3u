@@ -1,16 +1,16 @@
 #EXTM3U url-tvg= http://www.teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTINF:0 tvg-logo=https://https://cr1ma.github.io/iptv/mf1.png ,Матч! Футбол 1 
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf1.png , Матч! Футбол 1 
 https://95-213-172-212.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1152.png ,Матч! Футбол 2
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf2.png , Матч! Футбол 2
 https://46-21-250-207.livesports24.online/mfootball2rus.m3u8
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1662.png ,Матч! Футбол 3
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf3.png , Матч! Футбол 3
 https://185-107-80-245.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1629.png ,Футбол 1 Украина
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png , Футбол 1 Украина
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2115.png ,Футбол 2 Украина  
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png , Футбол 2 Украина  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8 
