@@ -14,3 +14,18 @@ https://live-k2311-kbp.1plus1.video/live/1605642340/3DU3FxU8ymrXS5TSqNxyQA/18472
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/nrj.png , NRJ Radio
 https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1307.png , Россия 1 HD  
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2702.png , Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8 
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2867.png , Первый канал 
+http://ott-cdn.ucom.am/s14/04.m3u8
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1006.png , 2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/pg.png , 2x2
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr-lq/1tvkr/1tvkr-sub/chunks.m3u8?nimblesessionid=538833149
