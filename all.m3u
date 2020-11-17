@@ -1,0 +1,16 @@
+#EXTM3U url-tvg= http://www.teleguide.info/download/new3/xmltv.xml.gz
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/ak.png , Аквариум 4К 
+https://hls10.sweet.tv/stream/j7chzq982xk6rze99gzicdqzw28kask9k39hn7435wac3e4qsmnybag93tcz7yhyxpzqaxrkc74h3dfev9jng7ibyurtqiy2ctvf5ifvm323e6pw2itye===.m3u8
+
+#EXTINF:0 tvg-logo=https://newsone.ua/img/png/logo.png , NewsOne
+https://hls11.sweet.tv/stream/unp347uif6ju4ph6axdzrqk4e5h4n8ynivhkw2svvmeefd3v33baqm9uzjv2hgu9xkz7pe7cf8mx2rq5cutb8ewhu34r6sshpwhfe6wzpugktvw5c4es====.m3u8 
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3586.png , National Geographic HD
+https://hls11.sweet.tv/stream/s5kgtzmpqwybxkq7bzi2ubwchseb4w73niavxvm6hxpp7skff6qvnf9g5234ug3yj6t98rkbf8wqxhhn8t8fh5cng98z995ajrkimiizf5c55rf3dtf9i===.m3u8
+
+#EXTINF:0 tvg-logo=https://sweet.tv/storage/channels/240.png , 1+1 HD
+https://live-k2311-kbp.1plus1.video/live/1605642340/3DU3FxU8ymrXS5TSqNxyQA/184723/smil:184723.smil/chunklist_b6360000.m3u8
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/nrj.png , NRJ Radio
+https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
