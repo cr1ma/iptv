@@ -1,8 +1,8 @@
-#EXTM3U
+#EXTM3U url-tvg=»http://www.teleguide.info/download/new3/xmltv.xml.gz»
 #EXTINF:0,Матч! Футбол 1
 https://95-213-172-212.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:0,Матч! Футбол 2
-https://95-213-172-222.livesports24.online/mfootball2rus.m3u8
+https://46-21-250-207.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0,Матч! Футбол 3
 https://185-107-80-245.livesports24.online/rumatchf3.m3u8
 #EXTINF:0,Футбол 1
