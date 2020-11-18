@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/ak.png , Аквариум 4К 
 https://hls10.sweet.tv/stream/j7chzq982xk6rze99gzicdqzw28kask9k39hn7435wac3e4qsmnybag93tcz7yhyxpzqaxrkc74h3dfev9jng7ibyurtqiy2ctvf5ifvm323e6pw2itye===.m3u8
 
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3586.png , National Geographic 
+https://hls13.sweet.tv/stream/ma95g8e6nh9xqf3bkx8xe9wh2jr5t6wb7uv7i2xaghvv5zifwu62q38kdvd83jv9xs852x6k3b68y3psc9ihzz9t7t3cmz633bjtdzzfz49rfzerteuva===.m3u8
+
 #EXTINF:0 tvg-logo=https://newsone.ua/img/png/logo.png , NewsOne
 https://hls11.sweet.tv/stream/unp347uif6ju4ph6axdzrqk4e5h4n8ynivhkw2svvmeefd3v33baqm9uzjv2hgu9xkz7pe7cf8mx2rq5cutb8ewhu34r6sshpwhfe6wzpugktvw5c4es====.m3u8 
 
@@ -32,6 +35,8 @@ https://live-304.zxz.su/LIVE/LIVE:317843/HLS/1605742081/44QtFuaERb4xjtrexecUbg/l
 
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2830.png   , 360
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+
+
 
 #EXTGRP:Футбол
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf1.png , Матч! Футбол 1 
