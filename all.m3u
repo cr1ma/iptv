@@ -1,4 +1,4 @@
-#EXTM3U url-tvg= http://www.teleguide.info/download/new3/xmltv.xml.gz
+#EXTM3U url-tvg= http://www.teleguide.info/download/new3/xmltv.xml.gz , url-tvg=http://epg.it999.ru/edem.xml.gz
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/ak.png , Аквариум 4К 
 https://hls10.sweet.tv/stream/j7chzq982xk6rze99gzicdqzw28kask9k39hn7435wac3e4qsmnybag93tcz7yhyxpzqaxrkc74h3dfev9jng7ibyurtqiy2ctvf5ifvm323e6pw2itye===.m3u8
@@ -25,4 +25,26 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/pg.png , Первый Городской
-https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr-lq/1tvkr/1tvkr-sub/chunks.m3u8?nimblesessionid=538833149
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr-lq/1tvkr/1tvkr-sub3/chunks.m3u8?nimblesessionid=539936169
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2830.png url-tvg=http://epg.it999.ru/edem.xml.gz , Пятница!
+https://live-304.zxz.su/LIVE/LIVE:317843/HLS/1605742081/44QtFuaERb4xjtrexecUbg/live/317843_3/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2830.png   , 360
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf1.png , Матч! Футбол 1 
+https://95-213-172-212.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf2.png , Матч! Футбол 2
+https://46-21-250-207.livesports24.online/mfootball2rus.m3u8
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf3.png , Матч! Футбол 3
+https://185-107-80-245.livesports24.online/rumatchf3.m3u8
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png  url-tvg=http://epg.it999.ru/edem.xml.gz , Футбол 1 Украина
+https://77-247-178-24.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  url-tvg=http://epg.it999.ru/edem.xml.gz , Футбол 2 Украина  
+https://95-213-172-212.livesports24.online/fooootball2.m3u8
