@@ -1,12 +1,11 @@
-#EXTM3U url-tvg=https://cr1ma.github.io/iptv/epg.xml.gz  , url-tvg=http://epg.it999.ru/edem.xml.gz
+#EXTM3U url-tvg=http://epg.it999.ru/epg2.xml.gz  , url-tvg=http://epg.it999.ru/edem.xml.gz
 
 
 
-#EXTINF:0 tvg-id=112-ua, 112 UA
+#EXTINF:0 tvg-logo=https://112.ua/img/logos/raw/logo_112-uk.png , 112 UA
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ Radio
-https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+
 
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1307.png , Россия 1 HD  
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
@@ -17,6 +16,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2867.png , Первый канал 
 http://188.113.190.12:80/98/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,Первый Канал HD
+http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
+
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1006.png , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
@@ -25,21 +27,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 
 
-#EXTINF:0 tvg-id=360-int , 360
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3527.png , 360
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 
-#EXTINF:-1 tvg-id=pervy-gorodskoy-kryvrig,Первый городской (Кривой Рог)
+#EXTINF:-1  tvg-logo=https://yt3.ggpht.com/ytc/AAUvwniSlgFZPT_dBAx40zcQH066lA5Ios-0lQfJ5j8-3Q=s900-c-k-c0x00ffffff-no-rj ,Первый городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8?checkedby
 
-#EXTINF:-1 tvg-id=piatnica,Пятница! HD
+#EXTINF:-1  tvg-logo=https://dvb.by/sources/logos/2830.png ,Пятница! HD
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8?token=413079063374
 
-#EXTINF:-1,Первый Канал HD
-http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
+
 
 #EXTINF:-1 tvg-logo=https://dvb.by/sources/logos/3586.png ,National Geographic HD
 http://77.243.112.149:8080/natgeo_hd/index.m3u8?token=413079063374
+
+
+
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf1.png , Матч! Футбол 1 
 https://95-213-224-188.livesports24.online/ntvmatchfoot1.m3u8
@@ -56,3 +60,15 @@ https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  , Футбол 2 Украина  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ Radio
+https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
