@@ -42,7 +42,7 @@ http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
 http://77.243.112.149:8080/natgeo_hd/index.m3u8?token=413079063374
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf1.png , Матч! Футбол 1 
-https://95-213-172-212.livesports24.online/ntvmatchfoot1.m3u8
+https://95-213-224-188.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf2.png , Матч! Футбол 2
 https://95-213-224-176.livesports24.online/mfootball2rus.m3u8
