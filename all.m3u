@@ -1,4 +1,4 @@
-#EXTM3U url-tvg= http://www.teleguide.info/download/new3/xmltv.xml.gz , url-tvg=http://epg.it999.ru/edem.xml.gz
+#EXTM3U url-tvg=https://cr1ma.github.io/iptv/epg.xml.gz  , url-tvg=http://epg.it999.ru/edem.xml.gz
 
 
 
@@ -17,15 +17,15 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2867.png , Первый канал 
 http://188.113.190.12:80/98/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1006.png url-tvg=http://epg.it999.ru/edem.xml.gz, 2x2
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1006.png , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1870.png url-tvg=http://epg.it999.ru/edem.xml.gz, СТС
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1870.png , СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/2830.png   , 360
+#EXTINF:0    , 360
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 
@@ -50,9 +50,9 @@ https://95-213-224-176.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf3.png , Матч! Футбол 3
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png  url-tvg=http://epg.it999.ru/edem.xml.gz , Футбол 1 Украина
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png   , Футбол 1 Украина
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  url-tvg=http://epg.it999.ru/edem.xml.gz , Футбол 2 Украина  
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  , Футбол 2 Украина  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8
 
