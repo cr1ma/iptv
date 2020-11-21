@@ -1,25 +1,4 @@
-#EXTM3U url-tvg=http://epg.it999.ru/epg2.xml.gz  , url-tvg=http://epg.it999.ru/edem.xml.gz
-
-
-
-#EXTINF:0 tvg-logo=https://112.ua/img/logos/raw/logo_112-uk.png , 112 UA
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
-
-
-
-#EXTINF:0 , Россия 1 HD  
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
- 
-#EXTINF:-1,Россия 24 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-
-#EXTINF:-1,Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,Первый Канал HD
-http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
-
-#EXTINF:0 , 2x2
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1006.png , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
 
@@ -34,7 +13,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 http://77.243.112.149:8080/ntv_hd/index.m3u8?token=413079063374
 
 
-#EXTINF:-1  tvg-logo=https://cr1ma.github.io/iptv/logo/1kr.png ,Первый городской (Кривой Рог)
+#EXTINF:-1  tvg-logo=https://yt3.ggpht.com/ytc/AAUvwniSlgFZPT_dBAx40zcQH066lA5Ios-0lQfJ5j8-3Q=s900-c-k-c0x00ffffff-no-rj ,Первый городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8?checkedby
 
 #EXTINF:-1  tvg-logo=https://dvb.by/sources/logos/2830.png ,Пятница! HD
@@ -57,15 +36,21 @@ https://95-213-224-176.livesports24.online/mfootball2rus.m3u8
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf3.png , Матч! Футбол 3
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png   , Футбол 1 UA
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png   , Футбол 1 Украина
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  , Футбол 2 UA  
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  , Футбол 2 Украина  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8
 
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Record.jpg , Radio Record
+#EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/8/83/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE_%D0%A0%D0%B5%D0%BA%D0%BE%D1%80%D0%B4_%282015%29.jpg , Radio Record
 http://air.radiorecord.ru:8101/rr_320
+
+
+
+
+
+
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ Radio
 https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
