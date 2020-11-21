@@ -23,11 +23,11 @@ http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/1870.png , СТС
+#EXTINF:0  , СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3527.png , 360
+#EXTINF:0  , 360
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 #EXTINF:0 ,НТВ HD
@@ -37,30 +37,30 @@ http://77.243.112.149:8080/ntv_hd/index.m3u8?token=413079063374
 #EXTINF:0  tvg-logo=https://cr1ma.github.io/iptv/logo/1kr.png ,Первый городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8?checkedby
 
-#EXTINF:0  tvg-logo=https://dvb.by/sources/logos/2830.png ,Пятница! HD
+#EXTINF:0   ,Пятница! HD
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8?token=413079063374
 
 
 
-#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3586.png ,National Geographic HD
+#EXTINF:0 ,National Geographic HD
 http://77.243.112.149:8080/natgeo_hd/index.m3u8?token=413079063374
 
 
 
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf1.png , Матч! Футбол 1 
+#EXTINF:0  , Матч! Футбол 1 
 https://95-213-224-188.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf2.png , Матч! Футбол 2
+#EXTINF:0 , Матч! Футбол 2
 https://95-213-224-176.livesports24.online/mfootball2rus.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mf3.png , Матч! Футбол 3
+#EXTINF:0  , Матч! Футбол 3
 https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f1.png   , Футбол 1 UA
+#EXTINF:0 , Футбол 1 UA
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/f2.png  , Футбол 2 UA  
+#EXTINF:0 , Футбол 2 UA  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8
 
 
