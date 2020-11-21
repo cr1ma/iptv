@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:0 tvg-logo=https://112.ua/img/logos/raw/logo_112-uk.png , 112 UA
+#EXTINF:0 , 112 UA
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 
 
@@ -23,11 +23,14 @@ http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
 
-#EXTINF:0  , СТС
+#EXTINF:0  ,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 
 
-#EXTINF:0  , 360°
+#EXTINF:0  ,Телеканал 360
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+
+#EXTINF:0  ,360°    
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 #EXTINF:0 ,НТВ HD
