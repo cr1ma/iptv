@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=http://epg.it999.ru/epg2.xml.gz  , url-tvg=http://epg.it999.ru/edem.xml.gz
+#EXTM3U url-tvg=https://cr1ma.github.io/iptv/epg.xml.gz  , url-tvg=http://epg.it999.ru/edem.xml.gz
 
 
 
@@ -10,16 +10,16 @@ http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 #EXTINF:0 , Россия 1 HD  
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
  
-#EXTINF:-1,Россия 24 HD
+#EXTINF:0  ,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
-#EXTINF:-1,Россия РТР
+#EXTINF:0  ,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1,Первый Канал HD
+#EXTINF:0  ,Первый Канал HD
 http://77.243.112.149:8080/ort_hd/index.m3u8?token=413079063374
 
-#EXTINF:0 , 2x2
+#EXTINF:0  , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
 
@@ -30,19 +30,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3527.png , 360
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
-#EXTINF:-1,НТВ HD
+#EXTINF:0 ,НТВ HD
 http://77.243.112.149:8080/ntv_hd/index.m3u8?token=413079063374
 
 
-#EXTINF:-1  tvg-logo=https://cr1ma.github.io/iptv/logo/1kr.png ,Первый городской (Кривой Рог)
+#EXTINF:0  tvg-logo=https://cr1ma.github.io/iptv/logo/1kr.png ,Первый городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8?checkedby
 
-#EXTINF:-1  tvg-logo=https://dvb.by/sources/logos/2830.png ,Пятница! HD
+#EXTINF:0  tvg-logo=https://dvb.by/sources/logos/2830.png ,Пятница! HD
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8?token=413079063374
 
 
 
-#EXTINF:-1 tvg-logo=https://dvb.by/sources/logos/3586.png ,National Geographic HD
+#EXTINF:0 tvg-logo=https://dvb.by/sources/logos/3586.png ,National Geographic HD
 http://77.243.112.149:8080/natgeo_hd/index.m3u8?token=413079063374
 
 
