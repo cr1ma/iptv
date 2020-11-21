@@ -27,7 +27,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 
 
-#EXTINF:0  , 360
+#EXTINF:0  , 360°
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 #EXTINF:0 ,НТВ HD
@@ -60,7 +60,7 @@ https://95-213-172-213.livesports24.online/rumatchf3.m3u8
 #EXTINF:0 , Футбол 1 UA
 https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 
-#EXTINF:0 , Футбол 2 UA  
+#EXTINF:0   , Футбол 2 UA  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8
 
 
