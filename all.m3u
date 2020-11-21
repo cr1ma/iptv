@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:0 , 112 UA
+#EXTINF:0 ,112 Украина
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 
 
@@ -25,10 +25,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 
 #EXTINF:0  ,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-
-
-#EXTINF:0  ,Телеканал 360
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 #EXTINF:0  ,360°    
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
@@ -77,4 +73,4 @@ https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
 https://pub0302.101.ru:8443/stream/air/aac/64/99
 
 #EXTINF:0 tvg-logo=https://ukrtvr.org/images/Dnipro/kryvbas.png , Кривбас
-https://pub0302.101.ru:8443/stream/air/aac/64/99
+https://cdn10.live-tv.od.ua:8083/radio/kryvbasfm/icecast.audio
