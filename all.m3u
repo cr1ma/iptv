@@ -70,5 +70,11 @@ https://95-213-172-212.livesports24.online/fooootball2.m3u8
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Record.jpg , Radio Record
 http://air.radiorecord.ru:8101/rr_320
 
-#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ Radio
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ UA
 https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ RU
+https://pub0302.101.ru:8443/stream/air/aac/64/99
+
+#EXTINF:0 tvg-logo=https://ukrtvr.org/images/Dnipro/kryvbas.png , Кривбас
+https://pub0302.101.ru:8443/stream/air/aac/64/99
