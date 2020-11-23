@@ -33,6 +33,9 @@ http://77.243.112.149:8080/ntv_hd/index.m3u8?token=413079063374
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Pt.png ,Пятница! HD
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8?token=413079063374
 
+#EXTINF:0,Наука
+http://50.7.231.221:8081/115/index.m3u8?wmsAuthSign=1606175532p822i67i811i64S8a400417792e3b621b95b785dc22f02d
+
 #EXTINF:0  , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
@@ -52,9 +55,15 @@ https://185-8-178-139.livesports24.online/uafootballua1.m3u8
 #EXTINF:0   , Футбол 2 UA  
 https://95-213-172-212.livesports24.online/fooootball2.m3u8
 
+#EXTINF:-1,Матч! Футбол 1 HD
+http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374
+
 #EXTGRP: Радио
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Record.jpg , Radio Record
 http://air.radiorecord.ru:8101/rr_320
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Record.jpg , Russian Music Box
+http://50.7.231.221:8081/168/index.m3u8?wmsAuthSign=1606175349p822i67i811i64S5f75131e00f9ff0647e1ba1809691b86
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ UA
 https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
