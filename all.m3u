@@ -30,6 +30,9 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:0 ,НТВ HD
 http://77.243.112.149:8080/ntv_hd/index.m3u8?token=413079063374
 
+#EXTINF:0,National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Pt.png ,Пятница! HD
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8?token=413079063374
 
@@ -80,3 +83,6 @@ http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374\
 
 #EXTINF:-1,Матч! Футбол 2 HD
 http://77.243.112.149:8080/football2_hd/index.m3u8?token=413079063374
+
+#EXTINF:-1,Матч! Футбол 3 HD
+http://77.243.112.149:8080/football3_hd/index.m3u8?token=413079063374
