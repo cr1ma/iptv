@@ -61,9 +61,19 @@ https://95-213-172-212.livesports24.online/fooootball2.m3u8
 #EXTINF:0 ,Футбол 3 UA 
 https://95-213-172-220.livesports24.online/football3ua.m3u8
 
+#EXTGRP: ФУТБОЛ HD
+#EXTINF:-1,Матч! Футбол 1 HD
+http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374\
+
+#EXTINF:-1,Матч! Футбол 2 HD
+http://77.243.112.149:8080/football2_hd/index.m3u8?token=413079063374
+
+#EXTINF:-1,Матч! Футбол 3 HD
+http://77.243.112.149:8080/football3_hd/index.m3u8?token=413079063374
+
 #EXTGRP: Музыка
-#EXTINF:0 , Russian Music Box
-http://50.7.231.221:8081/168/index.m3u8?wmsAuthSign=1606175349p822i67i811i64S5f75131e00f9ff0647e1ba1809691b86
+#EXTINF:-1,Music Box UA
+https://musicbox.cdn-01.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8?_=1606163908
 
 #EXTINF:-1 ,MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
@@ -77,16 +87,7 @@ https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/nrj.png , NRJ RU
 https://pub0302.101.ru:8443/stream/air/aac/64/99
 
-#EXTGRP: Тест
-#EXTINF:-1,Матч! Футбол 1 HD
-http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374\
 
-#EXTINF:-1,Матч! Футбол 2 HD
-http://77.243.112.149:8080/football2_hd/index.m3u8?token=413079063374
 
-#EXTINF:-1,Матч! Футбол 3 HD
-http://77.243.112.149:8080/football3_hd/index.m3u8?token=413079063374
 
-#EXTINF:-1,Music Box UA
-https://musicbox.cdn-01.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8?_=1606163908
 
