@@ -36,9 +36,6 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/Pt.png ,Пятница! HD
 http://77.243.112.149:8080/pyatnica_hd/index.m3u8?token=413079063374
 
-#EXTINF:0,Наука
-http://50.7.231.221:8081/115/index.m3u8?wmsAuthSign=1606175532p822i67i811i64S8a400417792e3b621b95b785dc22f02d
-
 #EXTINF:0  , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2 
 
