@@ -22,7 +22,7 @@ http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 http://77.243.112.149:8080/natgeo_hd/index.m3u8?token=413079063374
 
 #EXTINF:0  ,СТС
-https://plbl.m9.lfstrm.tv/sts_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+http://77.243.112.149:8080/sts_hd/index.m3u8?token=413079063374
 
 #EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/360.png ,360°    
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
@@ -42,10 +42,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 
 
 
-
 #EXTGRP:Футбол
 #EXTINF:-1,Матч! Футбол 1 HD
-http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374\
+http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374
 
 #EXTINF:-1,Матч! Футбол 2 HD
 http://77.243.112.149:8080/football2_hd/index.m3u8?token=413079063374
