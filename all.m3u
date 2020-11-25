@@ -61,6 +61,9 @@ https://95-213-172-212.livesports24.online/fooootball2.m3u8
 #EXTINF:0 tvg-logo=https://epg.iptvx.one/icn/footbal3-ua.png ,Футбол 3 UA 
 https://95-213-172-220.livesports24.online/football3ua.m3u8
 
+#EXTINF:-1,Setanta Sport 
+https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+
 #EXTGRP: ФУТБОЛ HD
 #EXTINF:-1,Матч! Футбол 1 HD
 http://77.243.112.149:8080/football1_hd/index.m3u8?token=413079063374\
