@@ -61,7 +61,7 @@ https://95-213-172-212.livesports24.online/fooootball2.m3u8
 #EXTINF:0 tvg-logo=https://epg.iptvx.one/icn/footbal3-ua.png ,Футбол 3 UA 
 https://95-213-172-220.livesports24.online/football3ua.m3u8
 
-#EXTINF:-1,Setanta Sport 
+#EXTINF:0  tvg-logo=https://dvb.by/sources/logos/1571.png,Setanta Sport 
 https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 
 #EXTGRP: ФУТБОЛ HD
@@ -73,6 +73,9 @@ http://77.243.112.149:8080/football2_hd/index.m3u8?token=413079063374
 
 #EXTINF:-1,Матч! Футбол 3 HD
 http://77.243.112.149:8080/football3_hd/index.m3u8?token=413079063374
+
+#EXTINF:0 tvg-logo=https://cr1ma.github.io/iptv/logo/mp.png ,Матч! Премьер HD
+http://77.243.112.149:8080/nash_football_hd/index.m3u8?token=413079063374
 
 #EXTGRP: Музыка
 #EXTINF:-1,Music Box UA

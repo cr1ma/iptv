@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 ,Setanta Sports 1
-http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
-#EXTINF:-1 ,Setanta Sports 2
-http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
-#EXTINF:-1 ,Setanta Sports HD
-http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
-#EXTINF:-1 ,Setanta Sports+ HD
-http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
-#EXTINF:-1 ,Setanta Sport Ukraine
-https://95-213-172-220.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 ,Setanta Sports HD
-http://myott.tv/stream/E9LYLBWT7X/234.m3u8
-#EXTINF:-1 ,Setanta Sports+
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1 ,Дом кино Премиум
+http://msk3.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
+#EXTINF:-1 ,Еда Премиум HD
+http://77.243.112.149:8080/eda_hd/index.m3u8?token=413079063374
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+http://77.243.112.149:8080/premiera/index.m3u8?token=413079063374
+#EXTINF:-1 ,Матч! Премьер
+http://77.243.112.149:8080/nash-football/index.m3u8?token=413079063374
+#EXTINF:-1 ,МАТЧ! Премьер
+https://95-213-172-220.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 ,Матч! Премьер HD
+http://77.243.112.149:8080/nash_football_hd/index.m3u8?token=413079063374
+#EXTINF:-1 ,Мир Премиум HD
+http://77.243.112.149:8080/mir_hd/index.m3u8?token=413079063374
