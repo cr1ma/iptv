@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=www.iptvx.one/epg/epg.xml.gz.
 #EXTINF:-1 , Первый канал HD
 http://37.235.150.205:81/udp/225.50.66.11:1234
-#EXTINF:-1 , Хуй
-http://37.235.150.205:81/udp/225.50.66.11:1234
+#EXTINF:-1 , Record
+http://air.radiorecord.ru:8101/rr_320
