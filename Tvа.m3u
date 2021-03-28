@@ -1,30 +1,16 @@
 ﻿#EXTM3U 
-#EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 1 HD    22
+#EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 1 HD    11
 http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1487_NBN_LITE--NTVFutbol1_wflite/04/plst.m3u8&c=session_token=5Sf-Dz58VaYHTaWcwS510w_1616949161_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&?output=hls
-#EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 3 HD   222
+#EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 3 HD   111
 http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1472_NBN_LITE--NTV_Futbol_3_wflite/04/plst.m3u8&c=session_token=5Sf-Dz58VaYHTaWcwS510w_1616949161_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&?output=hls
 
 
 
 
-
-
-http://217.182.201.48:8081/add/match-planeta1/playlist.m3u8
-#EXTINF:-1,Матч! Футбол 1   333
-http://134.19.150.42:81/udp/239.195.3.32:1234
-#EXTINF:-1,Матч! Футбол 2 333
-http://134.19.150.42:81/udp/239.195.3.33:1234
-#EXTINF:-1,Матч! Футбол 3 333 
-http://134.19.150.42:81/udp/239.195.3.34:1234
-
-
-
-
-
-#EXTINF:0 tvg-id="56" tvg-logo="http://epg.cdntv.online/img/56.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 2 HD
+#EXTINF:0 tvg-id="56" tvg-logo="http://epg.cdntv.online/img/56.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 2 HD   22
 #EXTGRP:Спортивные
 http://cdntv.online/low/9mlxywika2/56.mpeg
-#EXTINF:0 tvg-id="57" tvg-logo="http://epg.cdntv.online/img/57.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 3 HD
+#EXTINF:0 tvg-id="57" tvg-logo="http://epg.cdntv.online/img/57.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 3 HD   222
 #EXTGRP:Спортивные
 http://cdntv.online/low/9mlxywika2/57.mpeg
 
@@ -33,22 +19,9 @@ http://cdntv.online/low/9mlxywika2/57.mpeg
 
 
 
-#EXTINF:0 tvg-id="55" tvg-logo="http://epg.cdntv.online/img/55.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 1 HD
+#EXTINF:0 tvg-id="55" tvg-logo="http://epg.cdntv.online/img/55.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 1 HD   33
 #EXTGRP:Спортивные
 http://cdntv.online/variant/p75cd34n8k/55.m3u8
-#EXTINF:0 tvg-id="56" tvg-logo="http://epg.cdntv.online/img/56.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 2 HD
+#EXTINF:0 tvg-id="56" tvg-logo="http://epg.cdntv.online/img/56.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 2 HD    33
 #EXTGRP:Спортивные
 http://cdntv.online/variant/p75cd34n8k/56.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ukrtelecom.ua/upload/iblock/9a7/5ed-1.png",Футбол 3 HD
-https://46-21-250-207.livesports24.online/football3ua.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1
-https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
