@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 1 HD    22
+﻿#EXTM3U 
+#EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 1 HD    22
 http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1487_NBN_LITE--NTVFutbol1_wflite/04/plst.m3u8&c=session_token=5Sf-Dz58VaYHTaWcwS510w_1616949161_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&?output=hls
 #EXTINF:-1 group-title="Спортивные" aspect-ratio=original,МАТЧ! Футбол 3 HD   222
 http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1472_NBN_LITE--NTV_Futbol_3_wflite/04/plst.m3u8&c=session_token=5Sf-Dz58VaYHTaWcwS510w_1616949161_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&?output=hls
