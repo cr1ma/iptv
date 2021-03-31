@@ -1,21 +1,17 @@
-#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-
-#EXTINF:-1 ,  tvg-id="pervy" ,Первый канал HD
+#EXTINF:-1 , tvg-id="pervy" ,Первый канал HD
 http://37.235.150.205:81/udp/225.50.66.11:1234
 
-
-#EXTINF:-1 , tvg-id="radio-rekord" tvg-logo="https://cr1ma.github.io/iptv/RR.jpg" ,Radio Record
+#EXTINF:-1 , tvg-id="radio-rekord" tvg-logo="https://cr1ma.github.io/iptv/img/RR.jpg" ,Radio Record
 http://air.radiorecord.ru:8101/rr_320
 
-#EXTINF:-1 , tvg-logo="https://cr1ma.github.io/iptv/pnk.jpg" ,ПЕРШИЙ НЕЗАЛЕЖНИЙ
+#EXTINF:-1 , tvg-logo="https://cr1ma.github.io/iptv/img/pnk.jpg" ,ПЕРШИЙ НЕЗАЛЕЖНИЙ
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
 
 #EXTINF:-1 tvg-id="love-nature-4k" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-
 
 
 #EXTINF:0 tvg-id="match-football1" tvg-logo="http://epg.cdntv.online/img/55.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 1 HD   
