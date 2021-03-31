@@ -17,3 +17,13 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 
 
+#EXTINF:0 tvg-id="match-football1" tvg-logo="http://epg.cdntv.online/img/55.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 1 HD   
+http://cdntv.online/variant/p75cd34n8k/55.m3u8
+#EXTINF:0 tvg-id="match-football2" tvg-logo="http://epg.cdntv.online/img/56.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 2 HD   
+http://cdntv.online/low/9mlxywika2/56.mpeg
+#EXTINF:0 tvg-id="match-football3" tvg-logo="http://epg.cdntv.online/img/57.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 3 HD   
+http://cdntv.online/low/9mlxywika2/57.mpeg
+
+
+
+
