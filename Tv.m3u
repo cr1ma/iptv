@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+
 #EXTINF:-1 , tvg-id="pervy" ,Первый канал HD
-http://37.235.150.205:81/udp/225.50.66.11:1234
+http://cdntv.online/low/9mlxywika2/29.m3u8
 
 #EXTINF:-1 , tvg-id="radio-rekord" tvg-logo="https://cr1ma.github.io/iptv/img/RR.jpg" ,Radio Record
 http://air.radiorecord.ru:8101/rr_320
@@ -18,11 +19,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?versio
 
 #EXTINF:-1 ,Первый Городской 
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8?token=gelow74 
-#EXTINF:-1 ,National Geographic HD 
-http://cdn.nexttvnet.ru/hlsl/1/NATGEOHD/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1 ,Пятница HD 
 http://31.134.132.242:8080/pyatnica_hd/tracks-v1a1/mono.m3u8?token=gelow74
 #EXTINF:-1 ,Футбол 1 
 https://185-106-121-101.livesports24.online/uafootballua1.m3u8?942338514604a?token=gelow74
 #EXTINF:-1 ,2x2 HD 
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1 , tvg-id="pervy" ,Первый канал HD (рез)
+http://37.235.150.205:81/udp/225.50.66.11:1234
+#EXTINF:0 , База отдыха Гавайи
+https://live.kirillovka.ks.ua/live/hawaiimainl.m3u8
