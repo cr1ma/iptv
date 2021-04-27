@@ -1,44 +1,16 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-
 #EXTINF:-1 , tvg-id="pervy" ,Первый канал HD
 http://cdntv.online/low/9mlxywika2/29.m3u8
-
-#EXTINF:-1 , tvg-id="radio-rekord" tvg-logo="https://cr1ma.github.io/iptv/img/RR.jpg" ,Radio Record
-http://air.radiorecord.ru:8101/rr_320
-
 #EXTINF:-1 , tvg-logo="https://cr1ma.github.io/iptv/img/pnk.jpg" ,ПЕРШИЙ НЕЗАЛЕЖНИЙ
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
 
 #EXTINF:-1 tvg-id="love-nature-4k" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-
-
-#EXTINF:-1 , ,efefef
+#EXTINF:-1 ,  tvg-logo="https://cr1ma.github.io/iptv/img/ne.jpg , Naturescape HD
 https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
-
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="",Stingray Naturescape
-https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
-
-
-
-#EXTINF:-1 , ,efefefуапуауауа
-https://iptvcat.com/my_list/s/ceff6f681d63dc3b4f75bf3f1953240e.m3u8
-
-
-
-#EXTINF:-1 , ,CORAL REEF
-https://youtu.be/y1cDdzNtWrA
-#EXTINF:-1 , , Spacewalk Earth Views from NASA 
-https://youtu.be/mg7FweYjasE
-#EXTINF:-1 , ,Nerdle Cam 4K- SpaceX Starship Launch Facility
-https://www.youtube.com/embed/sTA0GTgFn5E
-
-
-
-
-
 
 
 #EXTINF:-1 ,Первый Городской 
@@ -49,7 +21,11 @@ http://31.134.132.242:8080/pyatnica_hd/tracks-v1a1/mono.m3u8?token=gelow74
 https://185-106-121-101.livesports24.online/uafootballua1.m3u8?942338514604a?token=gelow74
 #EXTINF:-1 ,2x2 HD 
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 , tvg-id="pervy" ,Первый канал HD (рез)
-http://37.235.150.205:81/udp/225.50.66.11:1234
+
+
 #EXTINF:0 , База отдыха Гавайи
 https://live.kirillovka.ks.ua/live/hawaiimainl.m3u8
+#EXTINF:-1 , tvg-id="radio-rekord" tvg-logo="https://cr1ma.github.io/iptv/img/RR.jpg" ,Radio Record
+http://air.radiorecord.ru:8101/rr_320
+#EXTINF:-1 , tvg-id="pervy" ,Первый канал HD (рез)
+http://37.235.150.205:81/udp/225.50.66.11:1234
