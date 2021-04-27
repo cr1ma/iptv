@@ -15,6 +15,16 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 
 
+#EXTINF:-1 , ,efefef
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="",Stingray Naturescape
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+#EXTINF:-1 , ,efefefуапуауауа
+https://iptvcat.com/my_list/s/ceff6f681d63dc3b4f75bf3f1953240e.m3u8
 
 
 
