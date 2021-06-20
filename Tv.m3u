@@ -20,11 +20,11 @@ http://31.134.132.242:8080/pyatnica_hd/tracks-v1a1/mono.m3u8?token=gelow74
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 
 
-#EXTINF:0 , Веб-камера с видом на пляж б/о "Гавайи"
+#EXTINF:0 , tvg-logo="http://hawaii-kirillovka.com:8090/webcam.php" Веб-камера с видом на пляж б/о "Гавайи"
 https://live.kirillovka.ks.ua/live/hawaiimainl.m3u8
-#EXTINF:0 , Веб-камера с видом на бассейн б/о "Гавайи"
+#EXTINF:0 , tvg-logo="http://hawaii-kirillovka.com/misc/cam/hawaiisp.jpg" , Веб-камера с видом на бассейн б/о "Гавайи"
 https://live01.kirillovka.ks.ua/live/hawaiisp.m3u8
-#EXTINF:0 , tvg-logo="https://img.snig.info/9/last.jpg" , Веб-камера с видом на подъёмник г/к "Extrim"
+#EXTINF:0 , tvg-logo="https://c.disquscdn.com/uploads/users/7982/4883/avatar92.jpg?1384091750" , Веб-камера с видом на подъёмник г/к "Extrim"
 https://e02.cdn.ua/sneg.info_camera/_definst_/09.stream/playlist.m3u8
 
 
@@ -37,4 +37,6 @@ http://air.radiorecord.ru:8101/rr_320
 #EXTINF:-1 , tvg-id="pervy" ,Первый канал HD (рез)
 http://37.235.150.205:81/udp/225.50.66.11:1234
 
+
+http://hawaii-kirillovka.com:8090/webcam.php
 
